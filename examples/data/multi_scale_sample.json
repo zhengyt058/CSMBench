@@ -1,0 +1,42 @@
+[
+  {
+    "image_caption": "Fig. 13. Modeling of atomic structure. (a) ZrB2 and Al atom, (b) ZrB2 and Sc atom.",
+    "describe_paragraph": "It can be concluded that when θ is less than 180◦, f(θ) is always less than 1, indicating that the critical nucleation energy at the interface is inferior to homogeneous nucleation in the matrix. In ZrB2/7085Al-Sc composites, the surface of ZrB2 nanoparticles facilitates the heterogeneous nucleation of enriched regions. Besides, the adsorption energies (E ) of Sc and Al atoms on ZrB2 (0001) were determined through firstprinciples calculations (Fig. 13). A larger absolute value of adsorption energy signifies that atomic adsorption is more favorable. The result indicated that the adsorption energy, Ead(ZrB2 − Sc) is − 4.73 eV, while Ead(ZrB2 − Al) is − 4.64 eV. Consequently, it can be concluded that ZrB2 is more likely to adsorb Sc atoms. As a result, in ZrB2/7085Al-Sc composites, Sc atoms tend to accumulate on the surface of ZrB2 nanoparticles, which facilitates the formation of a distinctive core-shell structure.",
+    "index": 2,
+    "scale": "AtomScale",
+    "source": "mc",
+    "figure_path": "examples/figures/sample_AtomScale_2.jpg",
+    "paper_folder_name": "Sc-induced-modification-enhances-strength-and-ductility_2025_Materials-Chara.pdf-82dcb778-205a-4fbe-adb3-3ea208f80034",
+    "hybrid": false
+  },
+  {
+    "image_caption": "Fig. 8. TEM images of ZrB2 nanoparticle: (a, b, d, e) in ZrB2/7085Al-0.4Sc composite, (c, f) ZrB2/7085Al composite, (g-i) Element distribution of B, Zr, and Al in a.",
+    "describe_paragraph": "Further TEM investigation focused on the ZrB2 nanoparticles within the ZrB2/7085Al-Sc composite. Fig. 8 shows representative high-angle annular dark-field (HAADF) TEM image and corresponding EDS elemental maps. A transition layer containing Sc, with a thickness on the order of several nanometers, was formed on the surface of the in-situ ZrB nanoparticles. The transition layer enclosed the nanoparticles to form a particular core-shell structure, clearly visualized in Fig. 8b. HRTEM image revealed the crystallographic orientation relationships among the Al matrix, interlayer, and ZrB2 particle by Sc adding. The newly formed ZrB2/Al3Sc/Al interface exhibits the orientation relationship: (101)ZrB2 // (200)Al3Er // (200)Al, as shown in Fig. 8d. This transition layer at the ZrB2 nanoparticle interface has induced a rounding of the initially sharp particle corners, indicating significant morphological changes, as shown in Fig. 8e, f. The formation of the particular structure is attributed to the Sc addition and is hypothesized to be instrumental in enhancing nanoparticle dispersion by potentially altering particle-melt interactions, as will be discussed further in Section 4.1.",
+    "index": 1,
+    "scale": "Microscale",
+    "source": "mc",
+    "figure_path": "examples/figures/sample_Microscale_1.jpg",
+    "paper_folder_name": "Sc-induced-modification-enhances-strength-and-ductility_2025_Materials-Chara.pdf-82dcb778-205a-4fbe-adb3-3ea208f80034",
+    "hybrid": false
+  },
+  {
+    "image_caption": "Fig. 8. (a-b) Bright field TEM images of the oxides which is found in the Cu matrix, (c) the HRTEM of the oxides, (d) the corresponding IFFT image marked in (c).",
+    "describe_paragraph": "To determine the distribution and composition of Fe-rich oxides in detail, some TEM samples from multiple locations were prepared and characterized in Fig. 8. The Fe-rich oxides are found in the Cu substrate in several samples, which are selected and presented in Fig. 8a-b. The morphologies of Fe-rich oxides in the Cu substrate are clearly different from those found on the surface of BLCs, which is confirmed to be polycrystalline powder. The weak bond and brittle property of these oxides are also visible. Fig. 8c-d show high resolution TEM (HRTEM) and IFFT images, in addition to the orientation of Fe3O4 can be determined, more heterogeneous components are exhibited, indicating the complex microscopic composition of these oxides. It is worth noting that these Ferich oxides were found only in several TEM samples, most of the Cu substrate remains homogeneous and oxide free.",
+    "index": 0,
+    "scale": "Mesoscale",
+    "source": "mc",
+    "figure_path": "examples/figures/sample_Mesoscale_0.jpg",
+    "paper_folder_name": "Direct-elimination-of-Fe-oxides-assists-the-preparation-of-_2025_Materials-C.pdf-6e8f28f5-506e-4ce4-99a8-2e7a57965fa2",
+    "hybrid": false
+  },
+  {
+    "image_caption": "Fig. 3. EBSD orientations maps depict the sample (a) after deformation, subsequent (b) direct ST without RHT, and (c) RHT + ST. (d)-(f) corresponding GND maps. (g, h) inverse pole figures under different conditions reflecting the degree of orientation deviation. (i, j) γ’ morphologies before deformation and after rejuvenation heat treatment.",
+    "describe_paragraph": "The crystal orientation of a specimen subjected to 2.7 % compression was mapped using EBSD with a 15 μm step size (Fig. 3a). While no significant change in the primary crystal orientation was observed, the corresponding GND map (Fig. 3d) reveals high-density dislocation regions and significant stress concentrations, which serve as potent nucleation sites for recrystallization. After ST, the microstructures of samples with and without the preceding RHT were markedly different. The sample without RHT exhibited large, strain-free recrystallized grains after ST (Fig. 3b, e). In contrast, the sample that underwent the RHT successfully suppressed recrystallization, maintaining its singlecrystal structure (Fig. 3c). And the stress concentration phenomena were also reduced, with the local deformation stored energy being recovered (Fig. 3d, f). Additionally, the inverse pole figure shows a clear improvement in the orientation deviation with recovery. The maximum deviation of grain orientation in the pre-strained sample is 9.59◦ (Fig. 3g), which is nearly double the initial orientation deviation. However, the rejuvenation significantly decreased the orientation deviation (6.86◦), approaching that of the superalloys without deformation (Fig. 3h). Despite the presence of such minor deviations, no recrystallized grains (high-angle grain boundaries) arose, and the dislocation density was significantly reduced after RHT, preventing a severe decline in the fatigue and creep performance of the NiSXs under high-temperature working conditions [4,35,36]. Thus, the proposed protocol suppresses the occurrence of recrystallization, maintaining the single crystal structure and the γ/γ’ two-phase structure (Fig. 3i, j). This method satisfies the requirements for a successful RHT, recovering the stored energy while preserving the microstructure characteristic.",
+    "index": 20,
+    "scale": "Macroscale",
+    "source": "mc",
+    "figure_path": "examples/figures/sample_Macroscale_20.jpg",
+    "paper_folder_name": "Dislocation-mediated-rejuvenation-of-deformation-energy-i_2025_Materials-Cha.pdf-c5fd6707-655c-411b-8591-99b53a16eaf2",
+    "hybrid": false
+  }
+]

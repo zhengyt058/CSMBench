@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Evaluation outputs
+outputs/
+
+# Full dataset (download from Hugging Face)
+CSMBench_Data/
+
+# OS
+.DS_Store
+Thumbs.db

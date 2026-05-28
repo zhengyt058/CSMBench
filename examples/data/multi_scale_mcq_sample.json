@@ -1,0 +1,110 @@
+[
+  {
+    "index": 2,
+    "scale": "AtomScale",
+    "source": "mc",
+    "figure_path": "examples/figures/sample_AtomScale_2.jpg",
+    "paper_folder_name": "Sc-induced-modification-enhances-strength-and-ductility_2025_Materials-Chara.pdf-82dcb778-205a-4fbe-adb3-3ea208f80034",
+    "options": [
+      {
+        "label": "A",
+        "caption": "Modeling of atomic structure using AFM. (a) ZrB2 and Fe atom, (b) ZrB2 and Ni atom."
+      },
+      {
+        "label": "B",
+        "caption": "Modeling of atomic structure. (a) ZrB2 and Al atom at 950°C, (b) ZrB2 and Sc atom at 950°C."
+      },
+      {
+        "label": "C",
+        "caption": "Modeling of atomic structure. (a) TiB2 and Fe atom, (b) TiB2 and Ni atom."
+      },
+      {
+        "label": "D",
+        "caption": "Modeling of atomic structure. (a) ZrB2 and Al atom, (b) ZrB2 and Sc atom."
+      }
+    ],
+    "correct_answer": "D",
+    "hybrid": false
+  },
+  {
+    "index": 1,
+    "scale": "Microscale",
+    "source": "mc",
+    "figure_path": "examples/figures/sample_Microscale_1.jpg",
+    "paper_folder_name": "Sc-induced-modification-enhances-strength-and-ductility_2025_Materials-Chara.pdf-82dcb778-205a-4fbe-adb3-3ea208f80034",
+    "options": [
+      {
+        "label": "A",
+        "caption": "AFM images of ZrB2 nanoparticle: (a, b, d, e) in ZrB2/7085Al-0.8Sc composite, (c, f) ZrB2/7085Al composite, (g-i) Element distribution of B, Zr, and Ni in a."
+      },
+      {
+        "label": "B",
+        "caption": "TEM images of ZrB2 nanoparticle: (a, b, d, e) in ZrB2/7085Al-0.4Sc composite, (c, f) ZrB2/7085Al composite, (g-i) Element distribution of B, Zr, and Al in a."
+      },
+      {
+        "label": "C",
+        "caption": "SEM images of ZrB2 nanoparticle: (a, b, d, e) in ZrB2/7085Fe-0.4Sc composite, (c, f) ZrB2/7085Fe composite, (g-i) Element distribution of B, Zr, and Fe in a."
+      },
+      {
+        "label": "D",
+        "caption": "SEM images of TiB2 nanoparticle: (a, b, d, e) in TiB2/7085Fe-0.6Sc composite, (c, f) TiB2/7085Fe composite, (g-i) Element distribution of B, Ti, and Fe in a."
+      }
+    ],
+    "correct_answer": "B",
+    "hybrid": false
+  },
+  {
+    "index": 0,
+    "scale": "Mesoscale",
+    "source": "mc",
+    "figure_path": "examples/figures/sample_Mesoscale_0.jpg",
+    "paper_folder_name": "Direct-elimination-of-Fe-oxides-assists-the-preparation-of-_2025_Materials-C.pdf-6e8f28f5-506e-4ce4-99a8-2e7a57965fa2",
+    "options": [
+      {
+        "label": "A",
+        "caption": "(a-b) Bright field TEM images of the Fe2O3 which is found in the Ni matrix, (c) the HRTEM of the Fe2O3, (d) the corresponding IFFT image marked in (c)."
+      },
+      {
+        "label": "B",
+        "caption": "(a-b) Bright field TEM images of the oxides which is found in the Cu matrix, (c) the AFM of the oxides, (d) the corresponding IFFT image marked in (c)."
+      },
+      {
+        "label": "C",
+        "caption": "(a-b) Bright field TEM images of the oxides which is found in the Cu matrix, (c) the HRTEM of the oxides, (d) the corresponding IFFT image marked in (c)."
+      },
+      {
+        "label": "D",
+        "caption": "(a-b) Bright field SEM images of the oxides which is found in the Ni matrix, (c) the AFM of the oxides, (d) the corresponding IFFT image marked in (c)."
+      }
+    ],
+    "correct_answer": "C",
+    "hybrid": false
+  },
+  {
+    "index": 20,
+    "scale": "Macroscale",
+    "source": "mc",
+    "figure_path": "examples/figures/sample_Macroscale_20.jpg",
+    "paper_folder_name": "Dislocation-mediated-rejuvenation-of-deformation-energy-i_2025_Materials-Cha.pdf-c5fd6707-655c-411b-8591-99b53a16eaf2",
+    "options": [
+      {
+        "label": "A",
+        "caption": "EBSD orientations maps depict the sample (a) after deformation, subsequent (b) direct ST without RHT, and (c) RHT + ST. (d)-(f) corresponding GND maps. (g, h) inverse pole figures under different conditions reflecting the degree of orientation deviation. (i, j) γ’ morphologies before deformation and after rejuvenation heat treatment."
+      },
+      {
+        "label": "B",
+        "caption": "EBSD orientations maps depict the sample (a) after deformation, subsequent (b) direct ST without RHT, and (c) RHT + ST. (d)-(f) corresponding GND maps. (g, h) inverse pole figures under different conditions reflecting the degree of orientation deviation. (i, j) γ’ morphologies before deformation and after annealing at 1050°C."
+      },
+      {
+        "label": "C",
+        "caption": "EBSD orientations maps depict the sample (a) after deformation, subsequent (b) direct ST without RHT, and (c) RHT + ST. (d)-(f) corresponding GND maps. (g, h) inverse pole figures under different conditions reflecting the degree of orientation deviation. (i, j) α morphologies before deformation and after stabilization heat treatment."
+      },
+      {
+        "label": "D",
+        "caption": "SEM orientation images depict the sample (a) after deformation, subsequent (b) direct T6 without aging, and (c) aging + T6. (d)-(f) corresponding WDS maps. (g, h) pole figures under different conditions reflecting the degree of orientation deviation. (i, j) Ni3Al morphologies before deformation and after solution heat treatment."
+      }
+    ],
+    "correct_answer": "A",
+    "hybrid": false
+  }
+]
